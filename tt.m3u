@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1,Sony Movies (en)
+#EXTVLCOPT--http-reconnect=true
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1,Disney Channel
+#EXTVLCOPT--http-reconnect=true
+https://bvsat02.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+#EXTINF:-1 audio-track=2 tvg-language="English",Animal Planet
+#EXTVLCOPT--http-reconnect=true
+https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
