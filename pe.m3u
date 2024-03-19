@@ -25,8 +25,6 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Cositel.pe" tvg-name="Cositel (1080p)" tvg-logo="https://i.imgur.com/qYwHNr9.png" group-title="General",Cositel (1080p)
 https://cloudvideo.servers10.com:8081/8180/index.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Español (576p)" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-name="CR Televisión Moyobamba (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-name="CreoTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV (720p) [Not 24/7]
@@ -65,8 +63,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-name="RCN Xtra (1080p)" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! (en)" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! (en)
-http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC America East (1080p) (en)" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East (1080p) (en)
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Top Gear (720p) (en)" tvg-logo="https://logodix.com/logo/382010.png" group-title="Entertainment",BBC Top Gear (720p) (en)
@@ -159,8 +155,6 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV (720p) [Not 24/7]
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Culture",National Geographic (en)
-http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth (720p) (en)" tvg-logo="http://img1.wikia.nocookie.net/__cb20140315014016/logopedia/images/e/ea/BBC_Earth_Logo.png" group-title="Culture",BBC Earth (720p) (en)
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature (en)" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Culture",Love Nature (en)
@@ -181,10 +175,6 @@ https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 https://lnc-bein.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1 (en)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX Sports 1 (en)
 https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (en)
-http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network (en)
-http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid (en)" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid (en)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV (720p) (en)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p) (en)
