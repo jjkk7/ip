@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,URI="https://bvsat02.cdn.rcs.net.ar/mnp/disney_hls/audio_4/playlist.m3u8"
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=636607,FRAME-RATE=25.00,CODECS="avc1.42001e",AUDIO="audio"
+https://bvsat02.cdn.rcs.net.ar/mnp/disney_hls/track_1_500/playlist.m3u8
