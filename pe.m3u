@@ -9,17 +9,17 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sol Television (720)" tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="General",Sol Television (720)
+#EXTINF:-1 tvg-id="lch6473" tvg-name="Sol Television (720)" tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="General",Sol Television (720)
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AsiriTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="asiritv.pe" tvg-name="AsiriTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="General",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATM Televisión (720p)" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="General",ATM Televisión (720p)
+#EXTINF:-1 tvg-id="AtmTelevision.pe" tvg-name="ATM Televisión (720p)" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="General",ATM Televisión (720p)
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auténtica Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="autenticatv.pe" tvg-name="Auténtica Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Conecta2TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="General",Conecta2TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="conecta2peru.com" tvg-name="Conecta2TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="General",Conecta2TV (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 Catacaos (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 Catacaos (720p) [Not 24/7]
 https://live.obslivestream.com/canal8/index.m3u8
@@ -43,13 +43,13 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Vía Altomayo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="General",Vía Altomayo (720p) [Not 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entertainment",TNT Series
+#EXTINF:-1 tvg-id="lch2222" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entertainment",TNT Series
 https://bvsat02.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Channel" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/5/5e/Warner2018LA.png/revision/latest?cb=20190208204136&path-prefix=es" group-title="Entertainment",Warner Channel
+#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/5/5e/Warner2018LA.png/revision/latest?cb=20190208204136&path-prefix=es" group-title="Entertainment",Warner Channel
 https://bvsat02.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal D Drama (1080p)" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama (1080p)" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="https://logodix.com/logo/1085623.png" group-title="Entertainment",HGTV
+#EXTINF:-1 tvg-id="2#HGTV" tvg-name="HGTV" tvg-logo="https://logodix.com/logo/1085623.png" group-title="Entertainment",HGTV
 https://bvsat02.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tastemade en Español (1080p)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entertainment",Tastemade en Español (1080p)
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
@@ -75,11 +75,11 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Channel" tvg-logo="https://multipress.com.mx/wp-content/uploads/2018/10/UniversalTV_Logo_RGB_DAWN_LARGE.png" group-title="Movies",Universal Channel
+#EXTINF:-1 tvg-id="0#UNIVERSAL" tvg-name="Universal Channel" tvg-logo="https://multipress.com.mx/wp-content/uploads/2018/10/UniversalTV_Logo_RGB_DAWN_LARGE.png" group-title="Movies",Universal Channel
 https://bvsat02.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="https://iconape.com/wp-content/png_logo_vector/space-channel-logo.png" group-title="Movies",Space
 https://bvsat02.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+#EXTINF:-1 tvg-id="1#SONYMOVIES" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
@@ -127,11 +127,11 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robot Chicken (en)" tvg-logo="https://theilluminerdi.com/wp-content/uploads/2021/08/robot-chicken-logo-1080x737.png" group-title="Animation",Robot Chicken (en)
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="3#DISNEYCHANNEL" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
 https://bvsat02.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-name="Cartoonito FreeLive Latam (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito FreeLive Latam (720p)
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibeña (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="3#KARIBENA" tvg-name="Karibeña (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
@@ -145,7 +145,7 @@ https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-name="EnerGeek Radio (1080p)" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (1080p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culture",Animal Planet
+#EXTINF:-1 tvg-id="1#ANIMALPLANET" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culture",Animal Planet
 https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encuentro (1080p)" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro (1080p)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
@@ -161,7 +161,7 @@ https://lnc-bbc-earth.tubi.video/playlist.m3u8
 https://lnc-love-nature.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DirectTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="Sports",DirectTV Sports
 http://home-playtv.com:8080/live/TvperuP/RRVXA/469393.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Sports",ESPN
+#EXTINF:-1 tvg-id="3#ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Sports",ESPN
 http://home-playtv.com:8080/live/TvperuP/RRVXA/220727.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1920px-Claro_Sports_logo.svg.png" group-title="Sports",Claro Sports
 https://dai.google.com/linear/hls/event/t5TzXj8rQTCKAEpUMbP9_Q/master.m3u8
