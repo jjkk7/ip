@@ -159,8 +159,10 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature (en)" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Culture",Love Nature (en)
 https://lnc-love-nature.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-name="Contacto Deportivo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
-https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DirectTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="Sports",DirectTV Sports
+http://home-playtv.com:8080/live/TvperuP/RRVXA/469393.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Sports",ESPN
+http://home-playtv.com:8080/live/TvperuP/RRVXA/220727.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1920px-Claro_Sports_logo.svg.png" group-title="Sports",Claro Sports
 https://dai.google.com/linear/hls/event/t5TzXj8rQTCKAEpUMbP9_Q/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2048x629.png" group-title="Sports",TNT Sports
