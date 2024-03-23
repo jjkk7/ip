@@ -71,7 +71,7 @@ https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bon appétit (1080p) (en)" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Entertainment",bon appétit (1080p) (en)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV (en)
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="Fashion TV (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV (en)
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
@@ -79,7 +79,7 @@ https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2239" tvg-name="Space" tvg-logo="https://iconape.com/wp-content/png_logo_vector/space-channel-logo.png" group-title="Movies",Space
 https://bvsat02.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC  (test a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC  (test a)
+#EXTINF:-1 tvg-id="lch5699" tvg-name="AMC  (test a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC  (test a)
 https://bvsat02.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="1#SONYMOVIES" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -87,13 +87,13 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-name="Retro Plus 3 HD (720p)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 HD (720p)
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Movies (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (en)
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (en)
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC East (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p) (en)
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p) (en)
 https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC+ (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC+ (1080p) (en)
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC+ (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC+ (1080p) (en)
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineLife (en)" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Movies",CineLife (en)
+#EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife (en)" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Movies",CineLife (en)
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2459" tvg-name="RPP (Test)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/RPP-Noticias-en-vivo-Online.png" group-title="News",RPP (Test)
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
@@ -109,15 +109,15 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="lch2304" tvg-name="CNN International Europe (720p) (en)" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p) (en)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News (1080p) (en)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/BBC_logo.png" group-title="News",BBC News (1080p) (en)
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (1080p) (en)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/BBC_logo.png" group-title="News",BBC News (1080p) (en)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News (720p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p) (en)
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News (720p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p) (en)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera English (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (en)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (en)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ameritrade (1080p) [Not 24/7] (en)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="News",Ameritrade (1080p) [Not 24/7] (en)
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yahoo! Finance (1080p) (en)" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="News",Yahoo! Finance (1080p) (en)
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance (1080p) (en)" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="News",Yahoo! Finance (1080p) (en)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -155,11 +155,11 @@ https://bvsat02.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV (720p) [Not 24/7]
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth (720p) (en)" tvg-logo="http://img1.wikia.nocookie.net/__cb20140315014016/logopedia/images/e/ea/BBC_Earth_Logo.png" group-title="Culture",BBC Earth (720p) (en)
+#EXTINF:-1 tvg-id="ca#5705562595/bbc-earth-hdtv" tvg-name="BBC Earth (720p) (en)" tvg-logo="http://img1.wikia.nocookie.net/__cb20140315014016/logopedia/images/e/ea/BBC_Earth_Logo.png" group-title="Culture",BBC Earth (720p) (en)
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature (en)" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Culture",Love Nature (en)
 https://lnc-love-nature.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DirectTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="Sports",DirectTV Sports
+#EXTINF:-1 tvg-id="1610#DTSAHD" tvg-name="DirectTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="Sports",DirectTV Sports
 http://home-playtv.com:8080/live/TvperuP/RRVXA/469393.m3u8
 #EXTINF:-1 tvg-id="3#ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Sports",ESPN
 http://home-playtv.com:8080/live/TvperuP/RRVXA/220727.m3u8
@@ -175,15 +175,15 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="BeIN SPORTS XTRA (720p) (en)" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p) (en)
 https://lnc-bein.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1 (en)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX Sports 1 (en)
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1 (en)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX Sports 1 (en)
 https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid (en)" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid (en)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV (720p) (en)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p) (en)
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV (720p) (en)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p) (en)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUEL TV (1080p) (en)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p) (en)
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="FUEL TV (1080p) (en)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p) (en)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV (1080p) (en)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/1x/red-bull-tv-logo.png" group-title="Sports",Red Bull TV (1080p) (en)
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p) (en)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/1x/red-bull-tv-logo.png" group-title="Sports",Red Bull TV (1080p) (en)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Poker Go (1080p) (en)" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",Poker Go (1080p) (en)
 https://lnc-pokergo.tubi.video/playlist.m3u8
