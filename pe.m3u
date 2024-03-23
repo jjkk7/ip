@@ -6,7 +6,9 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png/640px-Movistar_Plus_(Peru)_-_2017_logo.png" group-title="General",Movistar Plus (test)
+http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3477.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="lch6473" tvg-name="Sol Television (720)" tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="General",Sol Television (720)
@@ -33,14 +35,10 @@ https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-name="DMJ Cuzco (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ Cuzco (720p) [Not 24/7]
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="La5ta.pe" tvg-name="La 5ta" tvg-logo="https://i.imgur.com/1FRWCa6.png" group-title="General",La 5ta
-https://video.ingenioperu.com:3844/stream/play.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-name="TV Palmeras (1080p)" tvg-logo="https://i.imgur.com/1uRjeT8.png" group-title="General",TV Palmeras (1080p)
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
-#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-name="TV Sistemas Cuzco (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (360p) [Not 24/7]
-https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Vía Altomayo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="General",Vía Altomayo (720p) [Not 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="lch2222" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entertainment",TNT Series
@@ -49,6 +47,8 @@ https://bvsat02.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama (1080p)" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE Star (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Entertainment",TVE Star (test)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="lch5602" tvg-name="HGTV" tvg-logo="https://logodix.com/logo/1085623.png" group-title="Entertainment",HGTV
 https://bvsat02.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Español (1080p)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entertainment",Tastemade en Español (1080p)
@@ -63,9 +63,9 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-name="RCN Xtra (1080p)" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC America East (1080p) (en)" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East (1080p) (en)
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America East (1080p) (en)" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East (1080p) (en)
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Top Gear (720p) (en)" tvg-logo="https://logodix.com/logo/382010.png" group-title="Entertainment",BBC Top Gear (720p) (en)
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="BBC Top Gear (720p) (en)" tvg-logo="https://logodix.com/logo/382010.png" group-title="Entertainment",BBC Top Gear (720p) (en)
 https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="200#9995118" tvg-name="Tastemade Travel (720p) (en)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entertainment",Tastemade Travel (720p) (en)
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
@@ -79,6 +79,8 @@ https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2239" tvg-name="Space" tvg-logo="https://iconape.com/wp-content/png_logo_vector/space-channel-logo.png" group-title="Movies",Space
 https://bvsat02.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC  (test a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC  (test a)
+https://bvsat02.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="1#SONYMOVIES" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
@@ -93,6 +95,8 @@ https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/62407
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineLife (en)" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Movies",CineLife (en)
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2459" tvg-name="RPP (Test)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/RPP-Noticias-en-vivo-Online.png" group-title="News",RPP (Test)
+http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+
@@ -143,16 +147,12 @@ https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV (720p)" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Music",Tropical Music TV (720p)
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-name="EnerGeek Radio (1080p)" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (1080p)
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2268" tvg-name="Discovery (test a)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="Culture",Discovery (test a)
+https://bvsat02.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2273" tvg-name="Discovery Science (test a)" tvg-logo="https://s3-eu-central-1.amazonaws.com/asteroidday-uploads/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png" group-title="Culture",Discovery Science (test a)
+https://bvsat02.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2290" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culture",Animal Planet
 https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encuentro (1080p)" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro (1080p)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24 (720p) [Not 24/7]" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="Culture",Cultura 24 (720p) [Not 24/7]
-https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-#EXTINF:-1 tvg-id="SomosCulturaTV.pa" tvg-name="Somos Cultura TV (720p)" tvg-logo="https://i.imgur.com/kWR3END.png" group-title="Culture",Somos Cultura TV (720p)
-https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV (720p) [Not 24/7]
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth (720p) (en)" tvg-logo="http://img1.wikia.nocookie.net/__cb20140315014016/logopedia/images/e/ea/BBC_Earth_Logo.png" group-title="Culture",BBC Earth (720p) (en)
@@ -171,7 +171,7 @@ https://bvsat02.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid ES" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid ES
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="BeIN SPORTS XTRA (720p) (en)" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p) (en)
 https://lnc-bein.tubi.video/playlist.m3u8
@@ -183,7 +183,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUEL TV (1080p) (en)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p) (en)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Poker Go (1080p) (en)" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",Poker Go (1080p) (en)
-https://lnc-pokergo.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV (1080p) (en)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/1x/red-bull-tv-logo.png" group-title="Sports",Red Bull TV (1080p) (en)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Poker Go (1080p) (en)" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",Poker Go (1080p) (en)
+https://lnc-pokergo.tubi.video/playlist.m3u8
