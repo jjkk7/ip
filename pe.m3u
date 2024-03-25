@@ -47,7 +47,7 @@ https://bvsat02.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama (1080p)" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE Star (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Entertainment",TVE Star (test)
+#EXTINF:-1 tvg-id="lch5700" tvg-name="TVE Star (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Entertainment",TVE Star (test)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="lch5602" tvg-name="HGTV" tvg-logo="https://logodix.com/logo/1085623.png" group-title="Entertainment",HGTV
 https://bvsat02.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
@@ -71,7 +71,7 @@ https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bon appétit (1080p) (en)" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Entertainment",bon appétit (1080p) (en)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="Fashion TV (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV (en)
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV (en)
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
@@ -81,12 +81,12 @@ https://bvsat02.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch5699" tvg-name="AMC  (test a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC  (test a)
 https://bvsat02.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="1#SONYMOVIES" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-name="Retro Plus 3 HD (720p)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 HD (720p)
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (en)
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p) (en)
@@ -147,7 +147,7 @@ https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV (720p)" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Music",Tropical Music TV (720p)
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1 tvg-id="lch2268" tvg-name="Discovery (test a)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="Culture",Discovery (test a)
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-name="Discovery (test a)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="Culture",Discovery (test a)
 https://bvsat02.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2273" tvg-name="Discovery Science (test a)" tvg-logo="https://s3-eu-central-1.amazonaws.com/asteroidday-uploads/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png" group-title="Culture",Discovery Science (test a)
 https://bvsat02.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
@@ -169,7 +169,7 @@ https://dai.google.com/linear/hls/event/t5TzXj8rQTCKAEpUMbP9_Q/master.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="BeIN SPORTS XTRA En Espanol (720p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
