@@ -13,6 +13,8 @@ http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3477.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="lch6473" tvg-name="Sol Television (720)" tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="General",Sol Television (720)
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta2TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="General",Conecta2TV (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="asiritv.pe" tvg-name="AsiriTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="General",Antares Televisión (720p) [Not 24/7]
@@ -21,8 +23,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-id="autenticatv.pe" tvg-name="Auténtica Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta2TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="General",Conecta2TV (720p) [Not 24/7]
-https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 Catacaos (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 Catacaos (720p) [Not 24/7]
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Cositel.pe" tvg-name="Cositel (1080p)" tvg-logo="https://i.imgur.com/qYwHNr9.png" group-title="General",Cositel (1080p)
@@ -69,10 +69,6 @@ https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/62407
 https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="200#9995118" tvg-name="Tastemade Travel (720p) (en)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entertainment",Tastemade Travel (720p) (en)
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bon appétit (1080p) (en)" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Entertainment",bon appétit (1080p) (en)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV (en)
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2229" tvg-name="Universal Channel" tvg-logo="https://multipress.com.mx/wp-content/uploads/2018/10/UniversalTV_Logo_RGB_DAWN_LARGE.png" group-title="Movies",Universal Channel
@@ -85,8 +81,6 @@ https://bvsat02.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (en)
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p) (en)
