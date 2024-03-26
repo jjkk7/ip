@@ -117,7 +117,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-name="MAX Anime (720p)" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (720p)
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1 tvg-id="lch6313" tvg-name="Adult Swim Latam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/460px-Adult_Swim_2003_logo.svg.png" group-title="Animation",Adult Swim Latam
+#EXTINF:-1 tvg-id="lch6313" tvg-name="Adult Swim Latam" tvg-logo="https://d1y94prh01147t.cloudfront.net/game/assets/images/adult_swim_logo.png" group-title="Animation",Adult Swim Latam
 https://bvsat02.cdn.rcs.net.ar/mnp/adultswim_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Rick and Morty (1080p) (en)" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Animation",Adult Swim Rick and Morty (1080p) (en)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
