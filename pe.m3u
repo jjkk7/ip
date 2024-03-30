@@ -63,28 +63,24 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-name="RCN Xtra (1080p)" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America East (1080p) (en)" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East (1080p) (en)
-https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="BBC Top Gear (720p) (en)" tvg-logo="https://logodix.com/logo/382010.png" group-title="Entertainment",BBC Top Gear (720p) (en)
 https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="200#9995118" tvg-name="Tastemade Travel (720p) (en)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entertainment",Tastemade Travel (720p) (en)
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="lch2229" tvg-name="Universal Channel" tvg-logo="https://multipress.com.mx/wp-content/uploads/2018/10/UniversalTV_Logo_RGB_DAWN_LARGE.png" group-title="Movies",Universal Channel
-https://bvsat02.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2229" tvg-name="Studio Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Movies",Studio Universal
+https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 #EXTINF:-1 tvg-id="lch2239" tvg-name="Space" tvg-logo="https://iconape.com/wp-content/png_logo_vector/space-channel-logo.png" group-title="Movies",Space
 https://bvsat02.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="lch5699" tvg-name="AMC  (test a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC  (test a)
-https://bvsat02.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (en)
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p) (en)
-https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+http://170.254.18.106/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC+ (1080p) (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC+ (1080p) (en)
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-name="CineLife (en)" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Movies",CineLife (en)
