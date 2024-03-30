@@ -149,6 +149,8 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature (en)" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Culture",Love Nature (en)
 https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Sports",Liga 1 Max
+http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3439.m3u8
 #EXTINF:-1 tvg-id="1610#DTSAHD" tvg-name="DirectTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="Sports",DirectTV Sports
 http://home-playtv.com:8080/live/TvperuP/RRVXA/469393.m3u8
 #EXTINF:-1 tvg-id="3#ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Sports",ESPN
@@ -159,6 +161,8 @@ https://dai.google.com/linear/hls/event/t5TzXj8rQTCKAEpUMbP9_Q/master.m3u8
 https://bvsat02.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="BeIN SPORTS XTRA En Espanol (720p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="laliga" tvg-name="La liga" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/La-liga-new-logo.png" group-title="Sports",La Liga
+http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3492.m3u8
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV
@@ -175,5 +179,3 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p) (en)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/1x/red-bull-tv-logo.png" group-title="Sports",Red Bull TV (1080p) (en)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Poker Go (1080p) (en)" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",Poker Go (1080p) (en)
-https://lnc-pokergo.tubi.video/playlist.m3u8
