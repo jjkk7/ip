@@ -7,11 +7,11 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://imgur.com/yGQGDoi" group-title="General",Movistar Plus
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://imgur.com/yGQGDoi.png" group-title="General",Movistar Plus
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3477.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="lch6473" tvg-name="Sol Television" tvg-logo="https://imgur.com/GtNkuAc" group-title="General",Sol Television
+#EXTINF:-1 tvg-id="lch6473" tvg-name="Sol Television" tvg-logo="https://imgur.com/GtNkuAc.png" group-title="General",Sol Television
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta2TV" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="General",Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
@@ -41,11 +41,11 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="lch2222" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entertainment",TNT Series
 https://bvsat02.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel" tvg-logo="https://imgur.com/3XHUzBR" group-title="Entertainment",Warner Channel
+#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel" tvg-logo="https://imgur.com/3XHUzBR.png" group-title="Entertainment",Warner Channel
 https://bvsat02.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="lch5700" tvg-name="TVE Star" tvg-logo="https://imgur.com/zsCZHMh" group-title="Entertainment",TVE Star
+#EXTINF:-1 tvg-id="lch5700" tvg-name="TVE Star" tvg-logo="https://imgur.com/zsCZHMh.png" group-title="Entertainment",TVE Star
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="lch5602" tvg-name="HGTV" tvg-logo="https://logodix.com/logo/1085623.png" group-title="Entertainment",HGTV
 https://bvsat02.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
@@ -91,7 +91,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="lch2304" tvg-name="CNN International Europe (en)" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (en)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (en)" tvg-logo="https://imgur.com/vSz2WEp" group-title="News",BBC News (en)
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (en)" tvg-logo="https://imgur.com/vSz2WEp.png" group-title="News",BBC News (en)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (en)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
