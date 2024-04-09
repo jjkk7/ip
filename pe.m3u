@@ -61,8 +61,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-name="RCN Xtra" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="200#9995118" tvg-name="Tastemade Travel (en)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entertainment",Tastemade Travel (en)
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://bvsat02.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2229" tvg-name="Studio Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Movies",Studio Universal
