@@ -33,6 +33,8 @@ https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-name="DMJ Cuzco" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ Cuzco
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="mega.tv" tvg-name="Mega Jaen" tvg-logo="https://imgur.com/C9lqPlW.png" group-title="General",Mega Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-name="TV Palmeras" tvg-logo="https://i.imgur.com/1uRjeT8.png" group-title="General",TV Palmeras
