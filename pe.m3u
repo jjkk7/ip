@@ -165,3 +165,7 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="Culture",Discovery Channel | Mexico
+http://pe.shortgod.com/pawor201/tv11.php?id=47
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Culture",TCM | Peliculas
+http://pe.shortgod.com/pawor201/tv8.php?id=46679&f=.m3u8
