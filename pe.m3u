@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml"
+#EXTM3U x-tvg-url="https://jjkk7.github.io/ip/guide.xml"
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -322,7 +322,7 @@ https://bvsat02.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="historymovies" tvg-name="History Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="Culture",History Movies
+#EXTINF:-1 tvg-id="historymovies" tvg-name="History Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="Culture",History Channel
 http://45.228.234.210:4000/play/a03n/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -337,7 +337,7 @@ https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="Mexico" ,Pluto TV Historia
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="Culture" ,Pluto TV Historia
 https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
 #EXTVLCOPT--http-reconnect=true
