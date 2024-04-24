@@ -257,11 +257,6 @@ http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3444.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="Deportes",DAZN
-http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3478.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="contactoDeportivo" tvg-name="Contacto Deportivo" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Deportes",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
