@@ -102,12 +102,12 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina 2
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (mirror 2)
 https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream3/chunks.m3u8?dpssid=b1313695544376611b76da7d69&ndvc=0&sid=ba5t1l1xb28409972466305b66c0c87
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina 3
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (mirror 3)
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3407.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -187,6 +187,11 @@ https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PAÍS TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Cultural",EL PAÍS TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="LatinaNoticias.pe" tvg-name="Latina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Latina_digital.png" group-title="Noticias",Latina Noticias
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
@@ -212,17 +217,12 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PAÍS TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Noticias",EL PAÍS TV
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="SamsungTVPlus/es#ESBD190000137" tvg-name="CNN Resumen" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20240319T021819SQUARE.png" group-title="Noticias",CNÑ Resumen
 https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2304" tvg-name="CNN International Europe (en)" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Noticias",CNN International Europe (en)
+#EXTINF:-1 tvg-id="lch2304" tvg-name="CNN International (en)" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Noticias",CNN International (en)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -277,7 +277,7 @@ https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max
+#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max (mirror 2)
 http://161.132.108.74:50001/play/a03y/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
