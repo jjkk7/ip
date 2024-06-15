@@ -127,28 +127,33 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Español" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entretenimiento",Tastemade en Español
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entretenimiento",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch6517" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Entretenimiento",Las Estrellas
+#EXTINF:-1 tvg-id="lch6517" tvg-name="Las Estrellas Mexico" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Entretenimiento",Las Estrellas Mexico
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2376" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Entretenimiento",El Trece
+#EXTINF:-1 tvg-id="lch2376" tvg-name="El Trece Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Entretenimiento",El Trece Argentina
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="redUno" tvg-name="Red Uno Bolivia" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Entretenimiento",Red Uno Bolivia
+https://live-b.cf.dmcdn.net/sec2(oEXgIp-OQfIc_TQ9IotuZAlUw36TyWU-JrJ2q9PI8WeOI8hFmfHlsGAXH99c-OsTCfzsjIKjDW2EvPiGXbgF96Sfu8rNXyAanNolb0crd38)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="cubaint" tvg-name="Cubavision Internacional" tvg-logo="https://ia801605.us.archive.org/31/items/cubavision-international/Cubavision%20International.png" group-title="Entretenimiento",Cubavision Internacional
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Español" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entretenimiento",Tastemade en Español
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
