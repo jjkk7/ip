@@ -112,11 +112,6 @@ http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3407.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel" tvg-logo="https://imgur.com/3XHUzBR.png" group-title="Entretenimiento",Warner Channel
-http://161.132.108.74:50001/play/a004/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entretenimiento",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -124,6 +119,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch5700" tvg-name="TVE Star" tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/04/star-tve_head-simple.png" group-title="Entretenimiento",TVE Star
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="tve" tvg-name="TVE Internacional America" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Entretenimiento",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -137,13 +137,23 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="lch6517" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Entretenimiento",Las Estrellas
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch2376" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Entretenimiento",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch6517" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Entretenimiento",Las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="cubaint" tvg-name="Cubavision Internacional" tvg-logo="https://ia801605.us.archive.org/31/items/cubavision-international/Cubavision%20International.png" group-title="Entretenimiento",Cubavision Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel" tvg-logo="https://imgur.com/3XHUzBR.png" group-title="Peliculas",Warner Channel
+http://161.132.108.74:50001/play/a004/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -187,7 +197,7 @@ https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PAÍS TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Cultural",EL PAÍS TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El País TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Cultural",El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -213,12 +223,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch5608" tvg-name="France 24 Español" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="SamsungTVPlus/es#ESBD190000137" tvg-name="CNN Resumen" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20240319T021819SQUARE.png" group-title="Noticias",CNÑ Resumen
-https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -272,11 +277,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043155/rmtv-es-mob/master.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max (mirror 2)
 http://161.132.108.74:50001/play/a03y/index.m3u8
 
@@ -289,11 +289,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="PlutoTV/mx#64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Animacion",Naruto Shippuden
 https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch6313" tvg-name="Adult Swim Latam SD" tvg-logo="https://d1y94prh01147t.cloudfront.net/game/assets/images/adult_swim_logo.png" group-title="Animacion",Adult Swim Latam SD
-http://181.115.69.117:8000/play/a0kj/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -332,13 +327,8 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="3#KARIBENA" tvg-name="Karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-name="Tropical Moon Cumbia TV" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Musica",Tropical Moon Cumbia TV
-https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="radioSanBorja" tvg-name="Radio San Borja" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/FTf7VRjMbe.png" group-title="Musica",Radio San Borja
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -348,7 +338,7 @@ https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Musica",Tropical Moon Urban TV
-https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+http://sistemastr.tropicalmoonmedia.com:80/live/ED3C77392633DF8089EAAAF23E0011E2/4.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
