@@ -142,11 +142,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="redUno" tvg-name="Red Uno Bolivia" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Entretenimiento",Red Uno Bolivia
-https://live-b.cf.dmcdn.net/sec2(oEXgIp-OQfIc_TQ9IotuZAlUw36TyWU-JrJ2q9PI8WeOI8hFmfHlsGAXH99c-OsTCfzsjIKjDW2EvPiGXbgF96Sfu8rNXyAanNolb0crd38)/dm/3/x8vufvw/d/live-3.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="cubaint" tvg-name="Cubavision Internacional" tvg-logo="https://ia801605.us.archive.org/31/items/cubavision-international/Cubavision%20International.png" group-title="Entretenimiento",Cubavision Internacional
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
@@ -182,12 +177,12 @@ http://161.132.108.74:50001/play/a003/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="PlutoTV/mx#5dd85eac039bba0009e86d1d" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" tvg-chno="477" group-title="Cultural" ,Pluto TV Naturaleza
+#EXTINF:-1 tvg-id="PlutoTV/mx#5dd85eac039bba0009e86d1d" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Cultural" ,Pluto TV Naturaleza
 https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="PlutoTV/mx#5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="Cultural" ,Pluto TV Historia
+#EXTINF:-1 tvg-id="PlutoTV/mx#5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Cultural" ,Pluto TV Historia
 https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -344,3 +339,8 @@ http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="USBC3600015GF" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240401T235823SQUARE.png" tvg-chno="1527" group-title="Musica" ,Vevo Latino
 https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="USBC3600015GF" tvg-name="Vevo Latino ES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240401T235823SQUARE.png" tvg-chno="1527" group-title="Musica" ,Vevo Latino ES
+https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
