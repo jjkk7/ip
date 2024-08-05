@@ -37,6 +37,11 @@ https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="General",Trivu (1080p) [Not 24/7]
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="asiritv.pe" tvg-name="AsiriTV" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
