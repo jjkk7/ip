@@ -352,5 +352,5 @@ https://video.ingenioperu.com:3844/stream/play.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Music",TVUNO
+#EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Musica",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
