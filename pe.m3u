@@ -152,21 +152,6 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel" tvg-logo="https://imgur.com/3XHUzBR.png" group-title="Peliculas",Warner Channel
-http://190.119.123.220:4000/play/a006/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2227" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
-http://190.119.123.220:4000/play/a00f/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2239" tvg-name="Space" tvg-logo="https://iconape.com/wp-content/png_logo_vector/space-channel-logo.png" group-title="Peliculas",Space
-http://190.119.123.220:4000/play/a008/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
@@ -234,11 +219,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Noticias",Al Jazeera English (en)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports
-https://dai.google.com/linear/hls/event/t5TzXj8rQTCKAEpUMbP9_Q/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
