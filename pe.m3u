@@ -62,11 +62,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="CablePeru" tvg-name="Cable Peru" tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-2048x585.png" group-title="General",Cable Peru
-https://video2.lhdserver.es/cableperu/live.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-name="CR Televisión Moyobamba" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Televisión Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
 
@@ -142,23 +137,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento",EstrellaTV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Español" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Entretenimiento",Tastemade en Español
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="Peliculas",FreeTV Accion
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -234,11 +214,6 @@ http://190.119.123.220:4000/play/liga1max/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="3#ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN
 http://190.119.123.220:4000/play/a01e/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="contactoDeportivo" tvg-name="Contacto Deportivo" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Deportes",Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
