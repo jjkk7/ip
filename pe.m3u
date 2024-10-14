@@ -32,11 +32,6 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta2TV" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="General",Conecta2TV
-https://servilive.com:3114/live/liveulive.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="General",Trivu TV
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
@@ -49,11 +44,6 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Televisión" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="General",Antares Televisión
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="AtmTelevision.pe" tvg-name="ATM Televisión" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="General",ATM Televisión
-https://v4.tustreaming.cl/atmtv/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -87,11 +77,6 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-name="TV Palmeras" tvg-logo="https://i.imgur.com/1uRjeT8.png" group-title="General",TV Palmeras
-https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Vía Altomayo" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="General",Vía Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
@@ -100,6 +85,11 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entretenimiento",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento",RCN Mas
+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch5700" tvg-name="TVE Star" tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/04/star-tve_head-simple.png" group-title="Entretenimiento",TVE Star
@@ -124,11 +114,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="bolint" tvg-name="Bolivia TV" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Entretenimiento",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento",RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -202,6 +187,11 @@ https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="claro.mx" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports
+https://dai.google.com/linear/hls/pa/event/_OKWx76jT7mivD6d-25QAw/stream/bd70c04f-49b8-4df7-bfe0-36243dbf4e92:SCL/variant/0a790e0d9c436ef62af0be63fcb5c6d1/bandwidth/2444000.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max
 http://190.119.123.220:4000/play/liga1max/index.m3u8
 
@@ -242,11 +232,6 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim The Venture Bros (en)" tvg-logo="https://www.bubbleblabber.com/wp-content/uploads/2017/02/1200px-The_Venture_Bros_logo-1250x536.png" group-title="Animacion",Adult Swim The Venture Bros (en)
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="PlutoTV/mx#5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="1440" group-title="Kids" ,Nickelodeon Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -274,3 +259,13 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Musica",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Onda Digital
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Musica",Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
