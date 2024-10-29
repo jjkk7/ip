@@ -62,11 +62,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="General",Hechicera TV
-https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="mega.tv" tvg-name="Mega Jaen" tvg-logo="https://imgur.com/C9lqPlW.png" group-title="General",Mega Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
@@ -183,12 +178,12 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="BeIN SPORTS XTRA En Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",BeIN SPORTS XTRA En Espanol
-https://lnc-bein-espanol.tubi.video/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="claro.mx" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports
-https://dai.google.com/linear/hls/pa/event/_OKWx76jT7mivD6d-25QAw/stream/bd70c04f-49b8-4df7-bfe0-36243dbf4e92:SCL/variant/0a790e0d9c436ef62af0be63fcb5c6d1/bandwidth/2444000.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6320d80a66666000086712d7livestitch/2977920/playlist.m3u8?terminate=false&sid=f9973ff1-959e-11ef-aa07-e6bed446c987&deviceDNT=0&deviceLat=-12.079999923706055&deviceLon=-77.06999969482422&deviceModel=web&deviceVersion=131.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=bbeefc95-d5d8-4017-a69d-bc6bf9807c2b&appVersion=9.5.0-74992cec19532978f36754a29fbf3068a09f0b19&deviceType=web&deviceMake=firefox&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFiYTliNmZjLTNjZjctNDA0NC04NjRhLWYzMmNhMWI4OTQ1MyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmOTk3M2ZmMS05NTllLTExZWYtYWEwNy1lNmJlZDQ0NmM5ODciLCJjbGllbnRJUCI6IjIwMDE6MTM4ODoxM2E3OmEwNWU6ZjU3ZDoxMTYxOjI0MDg6ZTBjNyIsImNpdHkiOiJQdWVibG8gTGlicmUiLCJwb3N0YWxDb2RlIjoiMTUwMDAiLCJjb3VudHJ5IjoiUEUiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMTIuMDc5OTk5OTIzNzA2MDU1LCJkZXZpY2VMb24iOi03Ny4wNjk5OTk2OTQ4MjQyMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMxLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNS4wLTc0OTkyY2VjMTk1MzI5NzhmMzY3NTRhMjlmYmYzMDY4YTA5ZjBiMTkiLCJjbGllbnRJRCI6ImJiZWVmYzk1LWQ1ZDgtNDAxNy1hNjlkLWJjNmJmOTgwN2MyYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJiYmVlZmM5NS1kNWQ4LTQwMTctYTY5ZC1iYzZiZjk4MDdjMmIiLCJmd1ZjSUQyQ29wcGEiOiJiYmVlZmM5NS1kNWQ4LTQwMTctYTY5ZC1iYzZiZjk4MDdjMmIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImJiZWVmYzk1LWQ1ZDgtNDAxNy1hNjlkLWJjNmJmOTgwN2MyYiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMDMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZbUpsWldaak9UVXRaRFZrT0MwME1ERTNMV0UyT1dRdFltTTJZbVk1T0RBM1l6SmkiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMwMjU1OTQ5LCJpYXQiOjE3MzAxNjk1NDksImp0aSI6Ijc4NTdkNTYyLTQ5OGItNGE2ZS1hYTcwLWNjYzE4MDFjMWU3YyJ9.0Dex7ndeJYSwGKxzeMMRupUWyiTjMC902VeoWf8SgOY&paln=AQzzBGQEoTmSNnPS2L_KTMoRJLagdldOeUEl77B_d0mGEdhUbVDzE06PornRiEdpCKWRI-s0s7l107-yJINm-fFLDD_lAgMim5kyCSvZYGCs2wVCoCm7PHt6-wtZDZnXjCv4k6UM7CJ03u-GkVVE8JEN7OdduGlJEOjHsitCrO-ohn8GIPuRNIhgC8a6_upOrpFTg9Q3iXbSQvT6KtwGPlaVTBeYkv3ZIHxWiUauHanThfDqYHRAAVjXUwY2FUkrBtqM8ewAoCQwLHXz8akl7Bk4UTm9tYt4yReFlvKLDAnzDfeaOZaGnn9pwcJPOIkWUY4by_Iy_lyMUTQn8Uz_ISwmi1_xXqYZtkMhZeorQ7uFFlx_a-oqsveCjvtNm0fSwOk7rfa09qxpYWk_aXv7S14b7Pr8rhIpawqTrVRw2fZC_xQ_FKcemSIzgYqds2mWfH75HjRtPlFUUBNcIRiZqFUhIdpMDwyDCtaDAPmvHbWwal-Uu1YXLJrfy7sxAYHkDrObr4_Kst56eBtNLXdRnEqy4OJv_AVJwCJKGPA1PdO6noGIE7o07UwH6H74bdVleBb5SjQ1qMH-ezS6hqGLSzh4IJbYqVhezntcE2LTshwYHPsicQUv4uNkDjmIkk5ZVFXScAyhc4yMQL_JL6qZTebsGreh1gB3BTpscH4-PpMZ2RiNrGN1AEJMDRmZmdcacvEszbpulCDfByyvyTDpufOnxPjPX3AYxZ9tejxxAE9pBulYLDHlzgdYOKL5ShAN8wLy5kIGLV3SrNUv-HbbaMo6FgqXiusfaDRHHd502lm50hSaNN11hbUSqP3XwH5HoZaN6GedUXaMgjinPOLjJ2TF7oQGoWj0ccTtHoNO1fTIK1oQporvNgTu2nQ2rsZ-eoO4Q4vzW2HX8mH7xF0ShNag2cy_X4ELht-Dd76dgs_Pv0f86otCI8FzNPogabKc7gH3iyKgWWlKS_PacVmWXACE9dZ-qbl6TnUnjLkTLr5ze_51LSJGALNI5TKaxEQCEvXuuRUb6qX9rLFO2P0sZX5hx3vBxGvmVmHT_D6bnFW9ofoEiZWkeDrjTUlha4IlCroA-zmQ26mxa-kF92xMWBBoAcJ2dprpfzYeOZibqWMd-U04WTBT6eVwvyXISgNxEu-jJ8mKIL8B54O2-kyNEE254rUE14_hBK4wEoeQaOunW2uhQPVdSKjo45KofoC55w..&CMCD=mtp=194000,ot=m,sf=h,sid="0211e4d9-8580-44af-a5eb-77b9e1750844
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -217,21 +212,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Animacion",Animestation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Rick and Morty (en)" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Animacion",Adult Swim Rick and Morty (en)
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Robot Chicken (en)" tvg-logo="https://theilluminerdi.com/wp-content/uploads/2021/08/robot-chicken-logo-1080x737.png" group-title="Animacion",Adult Swim Robot Chicken (en)
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="PlutoTV/mx#5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="1440" group-title="Kids" ,Nickelodeon Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -242,18 +222,8 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="radioSanBorja" tvg-name="Radio San Borja" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/FTf7VRjMbe.png" group-title="Musica",Radio San Borja
-https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Musica",Tropical Music TV
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Musica",TVUNO
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -262,10 +232,20 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Onda Digital
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-d6DRt22Elr8/XR4fxa121_I/AAAAAAAANm0/Unjjd4JXTUojofRPcT8cyhIGCLtxcm-XgCLcBGAs/s1600/ondadigital.jpg" group-title="Musica",Onda Digital
+https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Musica",Frecuencia Musical TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.png" group-title="Musica",La Karibeña
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ondacero.com.pe/wp-content/themes/ondacero/assets/images/logo/logo.png" group-title="Musica",Onda Cero Radio
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5338949_JVBvw9AD_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002wAeF&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&dnt=true&uid=FbgGPVx9Z0lRSeKKLsCPELGLJ2mtYoX8&sid=qLu2ktvZLYdyYoJiWJXg27jxvuv4Uu7F&pid=XJQ0x3uZ7F2iQivcUlnsAVahxkIcGJQM&ref=www.ondacero.com.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1730258480580&ot=mkgDnq4gD-eT018lvePvQw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=lightning-player&liveId=6598b65ab398c90871aff8cc&referer=https://www.ondacero.com.pe/&propertyName=lightning-player&propertyType=web-app&propertyVersion=vv0.1.20&listenerId=FbgGPVx9Z0lRSeKKLsCPELGLJ2mtYoX8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/wp-content/themes/panamericana2/assets/images/logo/logo.png" group-title="Musica",Panamericana Radio
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5339047_5rqCsFoA_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002wAob&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&dnt=true&uid=1cFzszrf3gKp3kajHxtUOJcAlVzPdiMe&sid=FltPYZr8i7DvYWl2OelsiaAZOtAJtJNG&pid=PCeVA42yzDSPQVMp3t7HkMI8bMKknkuh&ref=www.radiopanamericana.com&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1730258578084&ot=p6DVF8F6uuJ9-5357BG9bA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=lightning-player&liveId=6598b62dded1380470f4e539&referer=https://www.radiopanamericana.com/&propertyName=lightning-player&propertyType=web-app&propertyVersion=vv0.1.20&listenerId=1cFzszrf3gKp3kajHxtUOJcAlVzPdiMe
