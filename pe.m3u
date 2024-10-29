@@ -107,11 +107,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="bolint" tvg-name="Bolivia TV" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Entretenimiento",Bolivia TV
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
@@ -243,9 +238,9 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ondacero.com.pe/wp-content/themes/ondacero/assets/images/logo/logo.png" group-title="Musica",Onda Cero Radio
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5338949_JVBvw9AD_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002wAeF&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&dnt=true&uid=FbgGPVx9Z0lRSeKKLsCPELGLJ2mtYoX8&sid=qLu2ktvZLYdyYoJiWJXg27jxvuv4Uu7F&pid=XJQ0x3uZ7F2iQivcUlnsAVahxkIcGJQM&ref=www.ondacero.com.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1730258480580&ot=mkgDnq4gD-eT018lvePvQw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=lightning-player&liveId=6598b65ab398c90871aff8cc&referer=https://www.ondacero.com.pe/&propertyName=lightning-player&propertyType=web-app&propertyVersion=vv0.1.20&listenerId=FbgGPVx9Z0lRSeKKLsCPELGLJ2mtYoX8
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=1pjX8H1bEnRpcXGLntr914TbX8EZLZWW&sid=LW9YdWkBsikz1I6oFJ6KFLimyFFo5viI&uid=835MgUCVyZP8SReyVQ1n8TcJE1hGnGwo&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&o
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/wp-content/themes/panamericana2/assets/images/logo/logo.png" group-title="Musica",Panamericana Radio
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5339047_5rqCsFoA_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002wAob&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&dnt=true&uid=1cFzszrf3gKp3kajHxtUOJcAlVzPdiMe&sid=FltPYZr8i7DvYWl2OelsiaAZOtAJtJNG&pid=PCeVA42yzDSPQVMp3t7HkMI8bMKknkuh&ref=www.radiopanamericana.com&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1730258578084&ot=p6DVF8F6uuJ9-5357BG9bA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=lightning-player&liveId=6598b62dded1380470f4e539&referer=https://www.radiopanamericana.com/&propertyName=lightning-player&propertyType=web-app&propertyVersion=vv0.1.20&listenerId=1cFzszrf3gKp3kajHxtUOJcAlVzPdiMe
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=PYLFZL03mkNxvOWt48R7mk7Nbuqyxe6l&sid=0qQ0AkSyzyNYeRuLXMxKYgNMWp4Xa2a4&uid=p7CukZGgKHGdj0oOZmeIccwee6cg7LfV&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&o
