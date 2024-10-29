@@ -237,10 +237,5 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ondacero.com.pe/wp-content/themes/ondacero/assets/images/logo/logo.png" group-title="Musica",Onda Cero Radio
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=1pjX8H1bEnRpcXGLntr914TbX8EZLZWW&sid=LW9YdWkBsikz1I6oFJ6KFLimyFFo5viI&uid=835MgUCVyZP8SReyVQ1n8TcJE1hGnGwo&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&o
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/wp-content/themes/panamericana2/assets/images/logo/logo.png" group-title="Musica",Panamericana Radio
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=PYLFZL03mkNxvOWt48R7mk7Nbuqyxe6l&sid=0qQ0AkSyzyNYeRuLXMxKYgNMWp4Xa2a4&uid=p7CukZGgKHGdj0oOZmeIccwee6cg7LfV&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&o
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/Radio_MegaMix#/media/Archivo:Radio_Mega_Mix.png" group-title="Musica",Radio La Megamix
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
