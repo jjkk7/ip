@@ -157,7 +157,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="Radio RPP" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",Radio RPP (audio)
+#EXTINF:-1 tvg-id="" tvg-name="Radio RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Noticias",Radio RPP (audio)
 https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233260_DQoUpFOR__0000000vabU&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=yz8tTsU0er1ER9pgR4MXX2ip1K46g1JP&ref=audioplayer.pe&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1679175022785&ot=b6fTtlpKDpumMLv4_2tNBw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
 
 #EXTVLCOPT--http-reconnect=true
@@ -242,15 +242,15 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/Radio_MegaMix#/media/Archivo:Radio_Mega_Mix.png" group-title="Musica",Radio La Megamix (audio)
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/Radio_MegaMix#/media/Archivo:Radio_Mega_Mix.png" group-title="Musica",Radio Felicidad (audio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tkVbkyCh6S.jpg" group-title="Musica",Radio Felicidad (audio)
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233401_HIe8EpHY__0000000vbqV&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=p7yv0JNMZmLG23brkVc4JbgvAyzSykiP&ref=audioplayer.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1679175163226&ot=dvh-cl6priskDyUuIXDz-A&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fad731fcf097a068af3c8f7&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/Radio_MegaMix#/media/Archivo:Radio_Mega_Mix.png" group-title="Musica",Radio Panamericana (audio)
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5634456_zwCCpgWt_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002GbXE&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&dnt=true&uid=1cFzszrf3gKp3kajHxtUOJcAlVzPdiMe&sid=XXmxO0V0s9oTa4EXqTwggM5dAGLbyIIw&pid=LmztFakT1X8L7MlEcS9NptcMp5iGbQEu&ref=www.radiopanamericana.com&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1730553987327&ot=l11W3R-LUWcLSKd83iepJA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=lightning-player&liveId=6598b62dded1380470f4e539&referer=https://www.radiopanamericana.com/&propertyName=lightning-player&propertyType=web-app&propertyVersion=vv0.1.20&listenerId=1cFzszrf3gKp3kajHxtUOJcAlVzPdiMe
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/images/logo-2023.png" group-title="Musica",Radio Panamericana (audio)
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5635006_3CxR7Y5s_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002Gd3F&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&pid=SJesk62eoZp9V2OpOzZWIWsrvnThqWWT&sid=7Hyvvip9gkfcFQPfy2zd4NlgY3vhnUcp&uid=SSqVtblyAQL2Vvrj2WOhxFuSLOA5I6wg&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1730554537621&ot=OUzcM12xQw9SsaVmhB6nwg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&referer=https://myradioenvivo.pe/&listenerId=SSqVtblyAQL2Vvrj2WOhxFuSLOA5I6wg
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (audio)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
