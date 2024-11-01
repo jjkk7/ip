@@ -158,7 +158,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Radio RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Noticias",Radio RPP (audio)
-https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233260_DQoUpFOR__0000000vabU&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=yz8tTsU0er1ER9pgR4MXX2ip1K46g1JP&ref=audioplayer.pe&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1679175022785&ot=b6fTtlpKDpumMLv4_2tNBw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5636270_1myKyJ5q_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002Gfto&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=scRuJUP61sT8F612J8s4wpHzoxeIsaZW&sid=lAKl2oYD8rxxs2BH3QTE2qhqDPlhegzx&pid=k0wrtIAj0kA6m3UKVs2R8u0UvTB72bcn&ref=rpp.pe&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1730555801493&ot=BKMfjrl314Ndm94gitOZYw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=rppaudio_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https://rpp.pe/&propertyName=rppaudio_web&propertyType=web-app&propertyVersion=v0.0.158&listenerId=scRuJUP61sT8F612J8s4wpHzoxeIsaZW
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -254,3 +254,4 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e5
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (audio)
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+
