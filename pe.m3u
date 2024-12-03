@@ -187,13 +187,13 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max
-http://190.119.123.220:4000/play/liga1max/index.m3u8
+#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",ESPN2
+http://190.217.22.156:18000/play/a01a
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="3#ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN
-http://190.119.123.220:4000/play/a01e/index.m3u8
+http://190.217.22.156:18000/play/a028
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
