@@ -163,7 +163,7 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch2304" tvg-name="Euronews (en)" tvg-logo="https://imgur.com/8t9mdg9" group-title="Noticias",Euronews (en)
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
