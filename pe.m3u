@@ -162,8 +162,8 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2304" tvg-name="CNN International (en)" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Noticias",CNN International (en)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2304" tvg-name="Euronews (en)" tvg-logo="https://imgur.com/8t9mdg9" group-title="Noticias",Euronews (en)
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -187,8 +187,8 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",ESPN2
-http://190.217.22.156:18000/play/a01a
+#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max
+https://coeld.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=95bf589aed7859200fcdfcbc180e0023ff6f8132-cd-1733486982-1733450982
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
