@@ -162,16 +162,6 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://tmssl.akamaized.net/images/logo/header/tdea.png?lm=1579456471" group-title="Deportes",Liga 1 Max
-https://server100.betzta.com/lb/l1max/index.m3u8?token=7da376d2128950493467a0f0b7070eeb5a6c8270-6005ee028692d4ce6a198bad24f8c00d-1734327670-1734316870&remote=181.65.18.208
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="3#ESPN" tvg-name="ESPN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN
-http://190.217.22.156:18000/play/a028
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
