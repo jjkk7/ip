@@ -107,7 +107,12 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El País TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Cultural",El País TV
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Entretenimiento",+ Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El País TV" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Entretenimiento",El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -133,7 +138,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch5608" tvg-name="France 24 Español" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -167,23 +172,28 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="PlutoTV/mx#5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="1440" group-title="Animacion" ,Nickelodeon Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animacion",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animacion",Locomotion TV
-http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animacion",Kanade
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="PlutoTV/mx#5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="1440" group-title="Kids" ,Nickelodeon Clásico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animacion",Energeek Retro
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="Pitufos" tvg-name="Pitufos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="Kids",Pitufos TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.png" group-title="Musica",La Karibeña
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -197,13 +207,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-d6DRt22Elr8/XR4fxa121_I/AAAAAAAANm0/Unjjd4JXTUojofRPcT8cyhIGCLtxcm-XgCLcBGAs/s1600/ondadigital.jpg" group-title="Musica",Onda Digital
-https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.png" group-title="Musica",La Karibeña
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -219,4 +224,3 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e5
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (audio)
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
-
