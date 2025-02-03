@@ -52,11 +52,6 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-name="DMJ Cuzco" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ Cuzco
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="mega.tv" tvg-name="Mega Jaen" tvg-logo="https://imgur.com/C9lqPlW.png" group-title="General",Mega Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
@@ -142,8 +137,8 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="Radio RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Noticias",Radio RPP (audio)
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5636270_1myKyJ5q_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002Gfto&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=scRuJUP61sT8F612J8s4wpHzoxeIsaZW&sid=lAKl2oYD8rxxs2BH3QTE2qhqDPlhegzx&pid=k0wrtIAj0kA6m3UKVs2R8u0UvTB72bcn&ref=rpp.pe&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1730555801493&ot=BKMfjrl314Ndm94gitOZYw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=rppaudio_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https://rpp.pe/&propertyName=rppaudio_web&propertyType=web-app&propertyVersion=v0.0.158&listenerId=scRuJUP61sT8F612J8s4wpHzoxeIsaZW
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo="https://iteleflix.com/archivos/Logo-CGTN-Espanol.png" group-title="Noticias",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
