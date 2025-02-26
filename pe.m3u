@@ -67,6 +67,11 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="bestv" tvg-name="best TV" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BOTONES/bestTV.png" group-title="General",Best TV
+https://ca2.godo.net.pe/bestcable/tracks-v1a1/mono.m3u8?remote=181.67.43.62&token=d08c7607c5be9f190431810ad680f69c2cc1b886-dc4c308a12cb24b6573c1e76eca09110-1740594160-1740583360
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entretenimiento",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -164,6 +169,11 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="bestv" tvg-name="Best Cable Sports" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BOTONES/BEST_CABLE_SPORTS.png" group-title="General",Best Cable Sports
+https://ca2.godo.net.pe/bestcablesports/tracks-v1a1/mono.m3u8?remote=181.67.43.62&token=be82fb1d159475d1cb2d00c345cbba09b3be9f1b-e969681846e8a1c7f50b9197a1c1992f-1740594497-1740583697
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
