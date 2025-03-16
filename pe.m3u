@@ -13,7 +13,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Peru
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -152,6 +152,11 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="PE: FMH Movies"tvg-id="FMH Movies"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Entretenimiento",FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="BeIN SPORTS XTRA En Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",BeIN SPORTS XTRA En Espanol
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 
@@ -192,8 +197,8 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Musica",Tropical Music TV
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Musica",Top Latino
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
