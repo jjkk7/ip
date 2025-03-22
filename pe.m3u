@@ -7,6 +7,11 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="americatv.pe" tvg-name="america" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv_ori_source/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="panamericana.pe" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
@@ -102,12 +107,12 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (en)" tvg-logo="https://imgur.com/vSz2WEp.png" group-title="Noticias",BBC News (en)
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (en)" tvg-logo="https://imgur.com/vSz2WEp.png" group-title="Noticias",BBC News English
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Noticias",Al Jazeera English (en)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English (en)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Noticias",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -187,8 +192,8 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animacion",Energeek Retro
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Animacion",FMH Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -212,15 +217,15 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tkVbkyCh6S.jpg" group-title="Musica",Radio Felicidad (audio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tkVbkyCh6S.jpg" group-title="Musica",Radio Felicidad (solo audio)
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233401_HIe8EpHY__0000000vbqV&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=p7yv0JNMZmLG23brkVc4JbgvAyzSykiP&ref=audioplayer.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1679175163226&ot=dvh-cl6priskDyUuIXDz-A&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fad731fcf097a068af3c8f7&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/images/logo-2023.png" group-title="Musica",Radio Panamericana (audio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/images/logo-2023.png" group-title="Musica",Radio Panamericana (solo audio)
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5635006_3CxR7Y5s_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002Gd3F&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&pid=SJesk62eoZp9V2OpOzZWIWsrvnThqWWT&sid=7Hyvvip9gkfcFQPfy2zd4NlgY3vhnUcp&uid=SSqVtblyAQL2Vvrj2WOhxFuSLOA5I6wg&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1730554537621&ot=OUzcM12xQw9SsaVmhB6nwg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&referer=https://myradioenvivo.pe/&listenerId=SSqVtblyAQL2Vvrj2WOhxFuSLOA5I6wg
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (audio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (solo audio)
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
