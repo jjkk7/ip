@@ -187,11 +187,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animacion",Kanade
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Animacion",FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
