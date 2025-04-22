@@ -192,11 +192,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6P9U8O.png"group-title="Deportes",La Liga España Movistar
-https://appstable.xyz:443/live/Radartvol/123456/203263.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="1440" group-title="Animacion" ,Nickelodeon Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
