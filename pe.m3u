@@ -172,6 +172,36 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Entretenimiento",Cine Estelar
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comedia" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="Entretenimiento",Cine Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://i.imgur.com/sgAfqzK.png" group-title="Entretenimiento",Pluto Historia
+https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Animales" tvg-logo="https://i.imgur.com/P2jEmG1.png" group-title="Entretenimiento",Pluto Animales
+https://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Cocina" tvg-logo="https://i.imgur.com/LRtfQla.png" group-title="Entretenimiento",Pluto Cocina
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="MacGyver" tvg-logo="https://www.tvdream.net/img/macgyver-tv.png" group-title="Entretenimiento",MacGyver
+https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="foxd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",Fox Deportes
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
@@ -179,6 +209,11 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="BeIN SPORTS XTRA En Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",BeIN SPORTS XTRA En Espanol
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="fifa" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Deportes",Fifa
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-66629aeb346b86608532dbe3/variant.m3u8?x-plex-token=Z7svqyk8zcxosCnG2xTs&x-plex-advertising-identifier=&x-plex-client-identifier=b6971370-ddf3-4c4f-a59a-b7458bedac0e&x-plex-playback-id=p_7e47e999-b74a-44bd-a11c-746807cbb560&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=138.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1746160107&url=89ea3a212e52c1611ccbf4e3b64bff3e-91a389cbc8c001e0b87fd269a1461cc734bf769aead22067c037da39d912d15198e035892a42f3e9a2a1d8f865822b5aee8f6837e03ef05c006462f9f7e96b4c3871da62deb2b69b8bf07a0beaf031d0f4c81c24f6fd2559549b5e35e4f92bf859555ea4e29a42943d090055b58cef684957c9c69829ba9fd7d617cec64f6a40f093d84d9658620ebea7109b25bfe0acbe8f42bf4541a97548adebb96961cb56
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -192,12 +227,22 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="1440" group-title="Animacion" ,Nickelodeon Clásico
+#EXTINF:-1 tvg-id="" tvg-name="CC" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-chno="" group-title="Animacion" ,Pluto Comedy Central
+https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="anime" tvg-logo="https://i.imgur.com/bYZtd0G.png" tvg-chno="" group-title="Animacion" ,Pluto Anime
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="" group-title="Animacion" ,Nickelodeon Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animacion",Naruto
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animacion",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTVLCOPT--http-reconnect=true
