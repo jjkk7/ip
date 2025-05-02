@@ -222,6 +222,11 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="rm" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/real-madrid-logo-01-freelogovectors.net_.png" group-title="Deportes",Real Madrid
+https://stitcher.pluto.tv/stitch/hls/channel/67a3b45a21af380008133aa4livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
