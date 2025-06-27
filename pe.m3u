@@ -152,11 +152,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Entretenimiento",TVN Chile
-https://marine2.miplay.cl/tvnchile/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Estrella" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
@@ -164,11 +159,6 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Entretenimiento",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-name="PE: FMH Movies" tvg-id="FMH Movies" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Entretenimiento",FMH Movies
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -213,7 +203,8 @@ https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playl
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="fifa" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Deportes",Fifa
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-66629aeb346b86608532dbe3/variant.m3u8?x-plex-token=Z7svqyk8zcxosCnG2xTs&x-plex-advertising-identifier=&x-plex-client-identifier=b6971370-ddf3-4c4f-a59a-b7458bedac0e&x-plex-playback-id=p_7e47e999-b74a-44bd-a11c-746807cbb560&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=138.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1746160107&url=89ea3a212e52c1611ccbf4e3b64bff3e-91a389cbc8c001e0b87fd269a1461cc734bf769aead22067c037da39d912d15198e035892a42f3e9a2a1d8f865822b5aee8f6837e03ef05c006462f9f7e96b4c3871da62deb2b69b8bf07a0beaf031d0f4c81c24f6fd2559549b5e35e4f92bf859555ea4e29a42943d090055b58cef684957c9c69829ba9fd7d617cec64f6a40f093d84d9658620ebea7109b25bfe0acbe8f42bf4541a97548adebb96961cb56
+https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
+
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -230,10 +221,6 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="CC" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-chno="" group-title="Animacion" ,Pluto Comedy Central
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -252,8 +239,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Animacion",FMH Kids
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CC" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-chno="" group-title="Animacion" ,Pluto Comedy Central
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
