@@ -23,7 +23,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -64,6 +64,11 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-name="CR Televisión Moyobamba" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Televisión Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="LikeTV.pe" tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="General",Like TV
+https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -254,8 +259,18 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R3T1bby.png" group-title="Musica",Cable Vision TV
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://mmo.aiircdn.com/766/66390ff00cacd.png" group-title="Musica",Radio Radiomar (solo audio)
+https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d/playlist.m3u8?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=c3UgrU7eSKD4MJK5OpJYRHEQvkXam4lv&sid=FjsUN8GpaY87NGlqZa9y19DAxAUAKUHD&uid=iByNj6l969L6nmsW7TWFjcn2qPfFQVrL&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1755840914078&ot=bUFpv9x7hg4n8Cff0KUu1A&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e261d2efddf5bfbc2d3d&referer=https://www.oigo.com/&propertyName=aiir&propertyType=rss-app&listenerId=iByNj6l969L6nmsW7TWFjcn2qPfFQVrL
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (solo audio)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -264,10 +279,5 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopanamericana.com/images/logo-2023.png" group-title="Musica",Radio Panamericana (solo audio)
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539/playlist.m3u8?listeningSessionID=66cedd711ca5c48e_5635006_3CxR7Y5s_dXMtLWRyLW1pYS0taS0tYWlzbGl2ZWhscy0tMi5jZG4ubWRzdHJtLmNvbTo4MDAw_0000002Gd3F&downloadSessionID=0&aid=658ddcc0b2c7835d48fee06d&pid=SJesk62eoZp9V2OpOzZWIWsrvnThqWWT&sid=7Hyvvip9gkfcFQPfy2zd4NlgY3vhnUcp&uid=SSqVtblyAQL2Vvrj2WOhxFuSLOA5I6wg&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1730554537621&ot=OUzcM12xQw9SsaVmhB6nwg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&referer=https://myradioenvivo.pe/&listenerId=SSqVtblyAQL2Vvrj2WOhxFuSLOA5I6wg
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kE9jFip.png" group-title="Musica",Radio La Megamix (solo audio)
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1 tvg-id="" tvg-logo="https://mmo.aiircdn.com/766/6463cb71bd8e3.png" group-title="Musica",Radio Magica (solo audio)
+https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43/playlist.m3u8?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=mfwHXbH4pf3pGxGkN9e4vEPWPIvVDAjQ&sid=Dxg0p1zQJWE5HZUfZIdesPjD2i3oCrgs&uid=5ZyF98z2cPY2Y5cCrTCSnuhT91I3qeST&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1755842063780&ot=53bncCqdaFT65jG_6Tq6vg&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e28eb3fdc597ac2e2e43&referer=https://www.oigo.com/&propertyName=aiir&propertyType=rss-app&listenerId=5ZyF98z2cPY2Y5cCrTCSnuhT91I3qeST
