@@ -7,6 +7,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunk
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (web)
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="americatv.pe" tvg-name="america" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv_ori_source/playlist.m3u8
 
@@ -24,6 +29,12 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (web)
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -59,6 +70,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="autenticatv.pe" tvg-name="Auténtica Televisión" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BOTONES/bestTV.png" group-title="General",Best Cable
+https://ca2.godo.net.pe/bestcable/tracks-v1a1/mono.m3u8?remote=181.65.10.123&token=7aeffb2bcc13aff1b4a0aa0542871168ed0bf6dc-57d0ac9964ef396132528c561eb71295-1755851197-1755840397
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
