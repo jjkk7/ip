@@ -73,11 +73,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BOTONES/bestTV.png" group-title="General",Best Cable
-https://ca2.godo.net.pe/bestcable/tracks-v1a1/mono.m3u8?remote=181.65.10.123&token=7aeffb2bcc13aff1b4a0aa0542871168ed0bf6dc-57d0ac9964ef396132528c561eb71295-1755851197-1755840397
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-name="CR Televisión Moyobamba" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Televisión Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
 
