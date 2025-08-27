@@ -27,6 +27,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Peru (web)
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
