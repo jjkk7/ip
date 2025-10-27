@@ -203,22 +203,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a0
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max
-http://199.127.63.143:8989/278898_.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max
-http://181.224.226.128:5000/play/a001/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max
-http://38.199.6.1:17001/play/a0ce/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max
 http://179.1.147.210:5000/play/a06f
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max (mirror)
+http://38.199.6.1:17001/play/a0ce/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -227,7 +217,7 @@ http://38.183.182.166:8000/play/a120/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Sur
+#EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
 http://38.210.105.10:8000/play/a02j/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
