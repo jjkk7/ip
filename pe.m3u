@@ -157,11 +157,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="lch2376" tvg-name="El Trece Argentina" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="Entretenimiento",El Trece Argentina
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Estrella" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
@@ -238,7 +233,7 @@ http://38.210.105.10:8000/play/a09h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports
-http://172.93.102.112:8989/279390_.m3u8
+http://38.187.3.110:8000/play/a04m/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
