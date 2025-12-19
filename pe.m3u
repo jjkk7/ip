@@ -233,7 +233,7 @@ http://38.210.105.10:8000/play/a09h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports
-http://38.187.3.110:8000/play/a04m/index.m3u8
+http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
