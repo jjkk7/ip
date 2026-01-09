@@ -163,17 +163,17 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/c
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Cine Estelar" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Entretenimiento",Cine Estelar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=764e8553-d4c4-4e83-a8f2-b4aa1b3cf5c8&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=135af3b8-e280-4ca9-8e2c-34ef650df80e&userId=&serverSideAds=true
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Cine Comedia" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="Entretenimiento",Cine Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=5bf6a819-89e4-43de-8239-d08225085e88&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=449b9889-f987-40ba-b301-6ba85bee8fa8&userId=&serverSideAds=true
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver" tvg-logo="https://www.tvdream.net/img/macgyver-tv.png" group-title="Entretenimiento",MacGyver
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=cb01074a-6be3-4c75-877d-8fafe42e6c86&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=726fd82c-730c-4761-af98-66b9a30d1b6d&userId=&serverSideAds=true
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -217,33 +217,23 @@ https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/real-madrid-logo-01-freelogovectors.net_.png" group-title="Deportes",Real Madrid
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67a3b45a21af380008133aa4livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Pluto Anime" tvg-logo="https://i.imgur.com/bYZtd0G.png" tvg-chno="" group-title="Animacion" ,Pluto Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=ef4892a4-aa85-43aa-b167-6a37b86ac227&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=c8394bfc-b791-4c62-b10d-f5d7ae6c153d&userId=&serverSideAds=true
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Clásico" tvg-logo="https://i.imgur.com/Crip6wT.png" tvg-chno="" group-title="Animacion" ,Nickelodeon Clásico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animacion",Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=34d3e7cd-64ee-459f-9c4f-909965025809&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=64cc05a4-b66c-4fd1-ba09-27711c4fdb3a&userId=&serverSideAds=true
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-chno="" group-title="Animacion" ,Pluto Comedy Central
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=5e9d368f-579c-430d-ae48-9164447c21e4&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=3b58cac7-906d-43e1-b289-b67288451bbc&userId=&serverSideAds=true
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
