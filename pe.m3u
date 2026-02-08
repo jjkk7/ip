@@ -57,13 +57,8 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Televisión" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="General",Antares Televisión
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="autenticatv.pe" tvg-name="Auténtica Televisión" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión
-https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="bitt.pe" tvg-name="BittTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="General",BittTV
+https://live-evg25.tv360.bitel.com.pe/bitel/bittSRT/chunks.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -104,6 +99,11 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Noticias",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Noticias",Exitosa
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=11659904
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -183,7 +183,7 @@ http://38.199.6.1:17001/play/a0ce/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
-http://38.210.105.10:8000/play/a02j/index.m3u8
+http://181.78.12.119:16123/play/ch16/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -218,7 +218,7 @@ https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="4#OVACION" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w475453596.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -238,7 +238,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a4329450007
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.png" group-title="Musica",La Karibeña
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -248,7 +248,7 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://mmo.aiircdn.com/766/66390ff00cacd.png" group-title="Musica",Radio Radiomar (solo audio)
-https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d/playlist.m3u8?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=c3UgrU7eSKD4MJK5OpJYRHEQvkXam4lv&sid=FjsUN8GpaY87NGlqZa9y19DAxAUAKUHD&uid=iByNj6l969L6nmsW7TWFjcn2qPfFQVrL&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1755840914078&ot=bUFpv9x7hg4n8Cff0KUu1A&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e261d2efddf5bfbc2d3d&referer=https://www.oigo.com/&propertyName=aiir&propertyType=rss-app&listenerId=iByNj6l969L6nmsW7TWFjcn2qPfFQVrL
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
