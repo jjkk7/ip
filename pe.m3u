@@ -238,7 +238,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a4329450007
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.png" group-title="Musica",La Karibeña
-https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
