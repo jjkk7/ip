@@ -38,7 +38,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch6473" tvg-name="Sol Television" tvg-logo="https://imgur.com/GtNkuAc.png" group-title="General",Sol Television
-https://cdn3.wowza.com/1/amEyYW9vQTZQSXB6/TW9WK25E/hls/dn4lvfxf/1080/chunklist.m3u8
+https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
