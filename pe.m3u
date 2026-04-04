@@ -157,6 +157,22 @@ http://38.87.224.21:2220/play/a002/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max A
+http://191.97.59.33:8000/play/a09c/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max B
+http://190.102.139.189:8000/play/a00w/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max C
+http://217.26.190.76:8888/play/a0j4/index.m3u8
+
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
 http://181.66.249.246:8000/play/a0g3/index.m3u8
 
