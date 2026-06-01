@@ -43,7 +43,7 @@ https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos
-https://live-evg18.tv360.bitel.com.pe/ZGQYf4j0Zx8Y9LbyvWwkWw/1779971883/bitel/cosmos/chunks.m3u8
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
