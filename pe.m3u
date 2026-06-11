@@ -13,7 +13,7 @@ http://38.188.100.18:8000/play/a0g4/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="panamericana.pe" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana
-http://45.173.74.2:2010/play/a070/index.m3u8
+http://148.222.230.197:8000/play/a0g6/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -49,6 +49,7 @@ https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="General",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
+
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -112,11 +113,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="2#KANALD" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entretenimiento",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="lch5700" tvg-name="TVE Star" tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/04/star-tve_head-simple.png" group-title="Entretenimiento",TVE Star
 https://rtvelivestream.rtve.es/rtvesec/int/star_main.m3u8
 
@@ -168,28 +164,23 @@ http://38.199.5.160:8000/play/a0a4/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 4
-http://181.66.249.25:8000/play/a0e3/index.m3u8
+http://190.108.80.138:8000/play/a0h0/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5
-http://38.210.105.10:8000/play/a09h/index.m3u8
+http://191.97.59.33:8000/play/a07r/index.m3u8
+
+
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-
-
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 2)
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 3)
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 2)
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
@@ -201,12 +192,6 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DSports+ (mirror 2)
 http://38.190.101.128:2233/play/a1ez/index.m3u8
-
-#EXTINF:-1 tvg-chno="Tecnibrain" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports
-http://181.78.8.199:8000/play/a06v/index.m3u8
-
-#EXTINF:-1 tvg-chno="Tecnibrain" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (mirror 2) 
-http://181.78.71.71:18000/play/a03p/index.m3u8
 
 
 
