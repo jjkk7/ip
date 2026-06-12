@@ -141,6 +141,31 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Entretenimiento",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
+
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports
+http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 2)
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win sports
+http://181.78.8.199:8000/play/a06v/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win sports (mirror 2)
+http://181.78.21.174:8015/play/a05q/index.m3u8
+
+
+
+
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max
@@ -171,39 +196,10 @@ http://190.108.80.138:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5
 http://191.97.59.33:8000/play/a07r/index.m3u8
 
-
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports
-http://217.26.190.76:8888/play/a0co/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 2)
-http://190.117.20.37:8000/play/a08d/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DSports+
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DSports+ (mirror 2)
-http://38.190.101.128:2233/play/a1ez/index.m3u8
-
-
-
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="DANELLY940531143" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports
 http://177.53.153.207:8000/play/a008/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="Fifa" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Deportes",Fifa
-https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
