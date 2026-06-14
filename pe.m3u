@@ -163,16 +163,6 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win sports (mirror 2)
 http://181.78.21.174:8015/play/a05q/index.m3u8
 
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",Caracol
-http://181.225.190.242:8000/play/a00o
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",RCN
-http://181.119.64.226:5070/play/a03a/index.m3u8
-
 
 
 #EXTVLCOPT--http-reconnect=true
@@ -205,10 +195,22 @@ http://190.108.80.138:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5
 http://191.97.59.33:8000/play/a07r/index.m3u8
 
+
+
+
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="DANELLY940531143" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports
-http://177.53.153.207:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",Caracol
+http://181.225.190.242:8000/play/a00o
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",RCN
+http://181.119.64.226:5070/play/a03a/index.m3u8
+
+
+
+
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
