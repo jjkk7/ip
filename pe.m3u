@@ -23,7 +23,7 @@ http://38.250.175.18:2220/play/a02h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (web)
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -208,6 +208,10 @@ http://181.225.190.242:8000/play/a00o
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",RCN
 http://181.119.64.226:5070/play/a03a/index.m3u8
 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="americatv.pe" tvg-name="America" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America (mirror 2)
+http://205.235.6.29:8000/play/a0ut/index.m3u8
 
 
 
