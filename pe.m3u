@@ -165,6 +165,16 @@ http://181.78.71.71:18000/play/a03p/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="telemundo" tvg-name="" tvg-logo="" group-title="Deportes",Telemundo
+http://177.10.184.60:8002/play/a00k/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="tigo" tvg-name="" tvg-logo="" group-title="Deportes",Tigo
+http://190.83.15.112:8000/play/a0b5/index.m3u8
+
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",Caracol
 http://181.225.190.242:8000/play/a00o
 
