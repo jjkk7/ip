@@ -12,11 +12,6 @@ http://200.37.201.35:8000/play/a0b6/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="americatv.pe" tvg-name="America" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America (mirror B)
-https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="panamericana.pe" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana
 http://38.87.224.20:2220/play/a007/index.m3u8
 
@@ -147,38 +142,15 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 
-
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports
-http://38.226.210.46:8000/play/A008/index.m3u8	
+http://177.10.184.193:8000/play/a0fc/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 2)
+#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror delay 1 min)
 http://190.117.20.37:8000/play/a08d/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 3)
-http://neoyjpw.top:8080/01691613063102/4f503120a59b/18393
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 4)
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 5)
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://www.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="Deportes",DSports (mirror 6)
-http://45.5.57.58:8000/play/a07p/index.m3u8
-
-
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -197,28 +169,19 @@ http://181.225.190.242:8000/play/a00o
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="" group-title="Deportes",RCN
-http://181.119.64.226:5070/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="americatv.pe" tvg-name="America" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America (mirror 2)
+http://205.235.6.29:8000/play/a0ut/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="americatv.pe" tvg-name="America" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America (mirror 2)
-http://205.235.6.29:8000/play/a0ut/index.m3u8
+#EXTINF:-1 tvg-id="americatv.pe" tvg-name="America" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="General",America (mirror 3)
+https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win sports
 http://181.78.8.199:8000/play/a06v/index.m3u8
 
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win sports (mirror 2)
-http://181.78.71.71:18000/play/a03p/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="tokio14-dot" tvg-name="" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Mundial
-https://s2.bufaloweb.com/bufalo9/index.m3u8
 
 
 
