@@ -104,7 +104,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo="https://iteleflix.com/archivos/Logo-CGTN-Espanol.png" group-title="Noticias",CGTN Español
-https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -140,16 +140,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max
 http://38.250.175.18:2220/play/a001/index.m3u8
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max (mirror 2)
-http://186.148.196.82:8001/play/ligamax1
-
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="sao14012" tvg-name="" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",Liga 1 Max (mirror 3)
-http://daleplaytv.vip:80//live/123MMM/654321/306889.ts
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
