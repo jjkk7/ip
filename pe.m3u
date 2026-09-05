@@ -164,7 +164,7 @@ http://38.199.5.160:8000/play/a0a4/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="rolandosegundo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 4
-http://190.108.80.138:8000/play/a0h0/index.m3u8
+http://190.119.112.28:8000/play/a06n/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
@@ -179,7 +179,7 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-logo="https://neotv.energeek.cl/assets/img/channels/p-bitt-channel.png" group-title="Musica",Bitt
-https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_0.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
