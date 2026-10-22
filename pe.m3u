@@ -23,7 +23,7 @@ http://38.250.175.18:2220/play/a02h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (web)
-http://187.102.210.46/ATV/index.m3u8
+http://190.93.224.42/ATV/index.m3u8
 
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:network-caching=1000
